@@ -1,0 +1,7 @@
+{
+  "name": "PrimeiroAPPLiga",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
